@@ -1,0 +1,8 @@
+[package]
+name = "learning_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Antonio Checa <antonio.checa.bustos@gmail.com>"]
+
+[dependencies]
+bracket-lib = "~0.8.1"
